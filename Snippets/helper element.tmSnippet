@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>this.element($0)</string>
+	<string>.element($0)</string>
 	<key>name</key>
 	<string>helper element</string>
 	<key>scope</key>
