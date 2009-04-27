@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should_equal $0</string>
+	<string>$1.should.equal $0</string>
 	<key>name</key>
 	<string>should_equal</string>
 	<key>scope</key>

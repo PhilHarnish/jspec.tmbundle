@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should_have_length $0</string>
+	<string>$1.should.have_length $0</string>
 	<key>name</key>
 	<string>should_have_length</string>
 	<key>scope</key>

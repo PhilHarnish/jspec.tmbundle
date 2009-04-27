@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should.be_less_than $0</string>
+	<string>expect(${1:object}).to(${2:be}, $3)</string>
 	<key>name</key>
-	<string>should_be_less_than</string>
+	<string>expect to</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>sblt</string>
+	<string>e</string>
 	<key>uuid</key>
-	<string>B1E5BB8A-C62E-40EA-85D4-49AA5145DEF0</string>
+	<string>F17FF4B4-49FE-4ECA-8D9D-EFA5219B6D23</string>
 </dict>
 </plist>

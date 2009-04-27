@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should_respond_to $0</string>
+	<string>$1.should.respond_to $0</string>
 	<key>name</key>
 	<string>should_respond_to</string>
 	<key>scope</key>

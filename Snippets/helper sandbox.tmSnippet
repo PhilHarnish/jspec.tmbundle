@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.sandbox($0)</string>
+	<string>sandbox($0)</string>
 	<key>name</key>
 	<string>helper sandbox</string>
 	<key>scope</key>
