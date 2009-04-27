@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should.not.have_tag $0</string>
+	<string>$1.should.not.have_prop $0</string>
 	<key>name</key>
-	<string>should_not_have_tag</string>
+	<string>should_not_have_prop</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>snht</string>
+	<string>snhp</string>
 	<key>uuid</key>
-	<string>CC0515A5-5DB1-467E-A7B9-4826F9C6F7A1</string>
+	<string>ED904BA6-BE74-4D9E-BBC1-D51A7D568E5A</string>
 </dict>
 </plist>
