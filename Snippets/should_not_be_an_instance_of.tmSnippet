@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should.receive(${2:method}${3:, 'once'}).with_args(${4:args}).and_return(${5:value})</string>
+	<string>$1.should.not.be_an_instance_of ${2:Object}</string>
 	<key>name</key>
-	<string>should_receive</string>
+	<string>should_not_be_an_instance_of</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>sr</string>
+	<string>snbaio</string>
 	<key>uuid</key>
-	<string>C92D3736-C2D8-429B-BAE8-3F841E29DFB2</string>
+	<string>5F292CF6-DA9D-4577-8861-39050043AC7C</string>
 </dict>
 </plist>
