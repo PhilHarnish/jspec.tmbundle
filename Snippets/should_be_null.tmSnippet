@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should.not.be_an_instance_of ${2:Object}</string>
+	<string>$1.should.be_null</string>
 	<key>name</key>
-	<string>should_not_be_an_instance_of</string>
+	<string>should_be_null</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>snbaio</string>
+	<string>sbn</string>
 	<key>uuid</key>
-	<string>346F1089-E41F-4C30-8790-A4376E737ECF</string>
+	<string>C2897161-08C8-456D-BA86-6F00CCAEB7BA</string>
 </dict>
 </plist>

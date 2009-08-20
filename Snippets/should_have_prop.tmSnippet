@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$1.should.have_prop $0</string>
+	<string>$1.should.have_prop '${2:name}'</string>
 	<key>name</key>
 	<string>should_have_prop</string>
 	<key>scope</key>
