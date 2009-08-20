@@ -46,7 +46,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.other.jspec.behavior</string>
+					<string>keyword.other.jspec.suite</string>
 				</dict>
 			</dict>
 			<key>end</key>
@@ -70,7 +70,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.other.jspec.example</string>
+					<string>keyword.other.jspec.spec</string>
 				</dict>
 			</dict>
 			<key>end</key>

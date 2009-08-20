@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Symbol List: Behavior</string>
+	<string>Symbol List: Suite</string>
 	<key>scope</key>
-	<string>meta.jspec.behavior</string>
+	<string>meta.jspec.suite</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Symbol List: Example</string>
+	<string>Symbol List: Spec</string>
 	<key>scope</key>
-	<string>meta.jspec.example</string>
+	<string>meta.jspec.spec</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
