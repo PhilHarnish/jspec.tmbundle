@@ -24,11 +24,11 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>#behavior</string>
+			<string>#suite</string>
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>#example</string>
+			<string>#spec</string>
 		</dict>
 		<dict>
 			<key>include</key>
@@ -37,31 +37,7 @@
 	</array>
 	<key>repository</key>
 	<dict>
-		<key>behavior</key>
-		<dict>
-			<key>begin</key>
-			<string>^\s*(describe)</string>
-			<key>beginCaptures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>keyword.other.jspec.suite</string>
-				</dict>
-			</dict>
-			<key>end</key>
-			<string>$</string>
-			<key>name</key>
-			<string>meta.jspec.behavior</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>include</key>
-					<string>source.js</string>
-				</dict>
-			</array>
-		</dict>
-		<key>example</key>
+		<key>spec</key>
 		<dict>
 			<key>begin</key>
 			<string>^\s*(it)</string>
@@ -76,7 +52,31 @@
 			<key>end</key>
 			<string>$</string>
 			<key>name</key>
-			<string>meta.jspec.example</string>
+			<string>meta.jspec.spec</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>include</key>
+					<string>source.js</string>
+				</dict>
+			</array>
+		</dict>
+		<key>suite</key>
+		<dict>
+			<key>begin</key>
+			<string>^\s*(describe)</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.other.jspec.suite</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>$</string>
+			<key>name</key>
+			<string>meta.jspec.suite</string>
 			<key>patterns</key>
 			<array>
 				<dict>
